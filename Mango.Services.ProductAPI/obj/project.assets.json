@@ -5673,7 +5673,7 @@
       "outputPath": "/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ProductAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ravi/.nuget/NuGet/NuGet.Config"
+        "/Users/ravi/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
