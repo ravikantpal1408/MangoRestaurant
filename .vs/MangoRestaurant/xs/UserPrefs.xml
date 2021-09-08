@@ -1,27 +1,15 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Web/Views/Product/Index.cshtml">
+  <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.Identity PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Web/Controllers/ProductController.cs">
     <Files>
-      <File FileName="Mango.Web/Controllers/ProductController.cs" Line="29" Column="21" />
-      <File FileName="Mango.Web/Views/Product/Index.cshtml" Line="15" Column="93" />
-      <File FileName="Mango.Web/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Mango.Web/Controllers/ProductController.cs" Line="37" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MangoRestaurant" expanded="True">
-            <Node name="FrontEnd" expanded="True">
-              <Node name="Mango.Web" expanded="True">
-                <Node name="Controllers" expanded="True" />
-                <Node name="Services" expanded="True" />
-                <Node name="Views" expanded="True">
-                  <Node name="Home" expanded="True" />
-                  <Node name="Product" expanded="True">
-                    <Node name="Index.cshtml" selected="True" />
-                  </Node>
-                  <Node name="Shared" expanded="True" />
-                </Node>
-              </Node>
-            </Node>
+            <Node name="FrontEnd" expanded="True" />
+            <Node name="Services" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -36,6 +24,7 @@
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
+        <StartupItem ItemId="{49836073-C426-44D6-902A-6D9385790E14}" ItemName="Mango.Services.Identity" ConfigurationId="Default" />
         <StartupItem ItemId="{BBE9ED68-ED6D-484D-9B03-F6C1921BDFA1}" ItemName="Mango.Services.ProductAPI" ConfigurationId="Default" />
         <StartupItem ItemId="{9D8115D2-7C4F-4948-B9D7-EE0B5D161558}" ItemName="Mango.Web" ConfigurationId="Default" />
       </Items>

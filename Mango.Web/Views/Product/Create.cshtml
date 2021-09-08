@@ -1,11 +1,10 @@
 ﻿@model Mango.Web.Models.ProductDto
-@{ ViewData["Title"] = "New Product"; }
 
 
 <form asp-action="Create">
     <br />
     <div class="container border p-3">
-        <h1 class="text-info">Create Product</h1>
+        <h1 class="text-primary">Create Product</h1>
 
         <hr />
         <div class="row">
@@ -47,10 +46,10 @@
             </div>
             <div class="col-5 offset-2">
 
-                <a asp-action="ProductIndex" class="btn-primary btn form-control ">Back to List</a>
+                <a asp-action="Index" class="btn-primary btn form-control ">Back to List</a>
             </div>
             <div class="col-5">
-                <input type="submit" value="Create" class="btn btn-info form-control" />
+                <input type="submit" value="Create" class="btn btn-success form-control" />
 
             </div>
 
@@ -62,5 +61,5 @@
 </form>
 
 @section Scripts {
-    <partial name="_ValidationScriptsPartial" />
+    <partial name="_ValidationScriptsPartial"/>
 }

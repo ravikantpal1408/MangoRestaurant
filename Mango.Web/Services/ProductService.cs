@@ -16,63 +16,63 @@ namespace Mango.Web.Services
             this.client = client;
         }
 
-        public async Task<T> CreateProductAsync<T>(ProductDto product)
+        public async Task<T> CreateProductAsync<T>(ProductDto product, string token)
         {
             var result = await this.SendAsync<T>(new ApiRequest()
                             {
                                 ApiType = SD.ApiType.POST,
                                 Data = product,
                                 Url = SD.ProductAPIBase + "/api/products/",
-                                AccessToken = ""
-                            });
+                                AccessToken = token
+            });
 
             return result;
         }
 
-        public async Task<T> DeleteProductAsync<T>(int id)
+        public async Task<T> DeleteProductAsync<T>(int id, string token)
         {
             var result = await this.SendAsync<T>(new ApiRequest()
             {
                 ApiType = SD.ApiType.DELETE,
                 Url = SD.ProductAPIBase + "/api/products/"+id,
-                AccessToken = ""
+                AccessToken = token
             });
 
             return result;
         }
 
-        public async Task<T> GetAllProductAsync<T>()
+        public async Task<T> GetAllProductAsync<T>(string token)
         {
             var result = await this.SendAsync<T>(new ApiRequest()
             {
                 ApiType = SD.ApiType.GET,
                 Url = SD.ProductAPIBase + "/api/products",
-                AccessToken = ""
+                AccessToken = token
             });
 
             return result;
         }
 
-        public async Task<T> GetProductByIdAsync<T>(int id)
+        public async Task<T> GetProductByIdAsync<T>(int id, string token)
         {
             var result = await this.SendAsync<T>(new ApiRequest()
             {
                 ApiType = SD.ApiType.GET,
                 Url = SD.ProductAPIBase + "/api/products/" + id,
-                AccessToken = ""
+                AccessToken = token
             });
 
             return result;
         }
 
-        public async Task<T> UpdateProductAsync<T>(ProductDto product)
+        public async Task<T> UpdateProductAsync<T>(ProductDto product, string token)
         {
             var result = await this.SendAsync<T>(new ApiRequest()
             {
                 ApiType = SD.ApiType.PUT,
                 Data = product,
                 Url = SD.ProductAPIBase + "/api/products/",
-                AccessToken = ""
+                AccessToken = token
             });
 
             return result;
