@@ -813,3 +813,4 @@
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.Identity/obj/Debug/net5.0/ref/Mango.Services.Identity.dll
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.Identity/obj/Debug/net5.0/Mango.Services.Identity.pdb
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.Identity/obj/Debug/net5.0/Mango.Services.Identity.genruntimeconfig.cache
+/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.Identity/obj/Debug/net5.0/Mango.Services.Identity.csproj.AssemblyReference.cache

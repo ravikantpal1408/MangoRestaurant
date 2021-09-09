@@ -1,15 +1,26 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
   <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.Identity PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Web/Controllers/ProductController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Services.Identity/Initializer/DbInitializer.cs">
     <Files>
       <File FileName="Mango.Web/Controllers/ProductController.cs" Line="37" Column="10" />
+      <File FileName="Mango.Web/SD.cs" />
+      <File FileName="Mango.Web/Startup.cs" Line="54" Column="47" />
+      <File FileName="Mango.Services.Identity/Initializer/DbInitializer.cs" Line="27" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MangoRestaurant" expanded="True">
-            <Node name="FrontEnd" expanded="True" />
-            <Node name="Services" expanded="True" />
+            <Node name="FrontEnd" expanded="True">
+              <Node name="Mango.Web" expanded="True" />
+            </Node>
+            <Node name="Services" expanded="True">
+              <Node name="Mango.Services.Identity" expanded="True">
+                <Node name="Initializer" expanded="True">
+                  <Node name="DbInitializer.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
