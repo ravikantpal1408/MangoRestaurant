@@ -1,6 +1,6 @@
 ﻿using System;
 using Mango.Services.ProductAPI.DbContexts.Models;
-using Microsoft.EntityFrameworkCore;
+    using Microsoft.EntityFrameworkCore;
 
 namespace Mango.Services.ProductAPI.DbContexts
 {

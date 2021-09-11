@@ -377,7 +377,6 @@
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
-/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.csproj.AssemblyReference.cache
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.GeneratedMSBuildEditorConfig.editorconfig
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.AssemblyInfoInputs.cache
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.AssemblyInfo.cs
@@ -392,8 +391,8 @@
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.TagHelpers.input.cache
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.TagHelpers.output.cache
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.RazorCoreGenerate.cache
+/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Razor/Views/Home/Details.cshtml.g.cs
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
-/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Razor/Views/Product/Create.cshtml.g.cs
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Razor/Views/Product/Delete.cshtml.g.cs
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Razor/Views/Product/Edit.cshtml.g.cs
@@ -412,3 +411,4 @@
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/ref/Mango.Web.dll
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.pdb
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.genruntimeconfig.cache
+/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.csproj.AssemblyReference.cache

@@ -25,6 +25,7 @@ namespace Mango.Services.ProductAPI.Controllers
 
 
         [HttpGet]
+        [AllowAnonymous]
         public async Task<object> Get()
         {
             try

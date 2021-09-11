@@ -1,23 +1,22 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
   <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.Identity PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Services.Identity/Initializer/DbInitializer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Services.ShoppingCartAPI/Models/Cart.cs">
     <Files>
-      <File FileName="Mango.Web/Controllers/ProductController.cs" Line="37" Column="10" />
-      <File FileName="Mango.Web/SD.cs" />
-      <File FileName="Mango.Web/Startup.cs" Line="54" Column="47" />
-      <File FileName="Mango.Services.Identity/Initializer/DbInitializer.cs" Line="27" Column="1" />
+      <File FileName="Mango.Services.ShoppingCartAPI/Models/Cart.cs" Line="7" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MangoRestaurant" expanded="True">
-            <Node name="FrontEnd" expanded="True">
-              <Node name="Mango.Web" expanded="True" />
-            </Node>
             <Node name="Services" expanded="True">
-              <Node name="Mango.Services.Identity" expanded="True">
-                <Node name="Initializer" expanded="True">
-                  <Node name="DbInitializer.cs" selected="True" />
+              <Node name="Mango.Services.ProductAPI" expanded="True">
+                <Node name="DbContexts" expanded="True">
+                  <Node name="Models" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Mango.Services.ShoppingCartAPI" expanded="True">
+                <Node name="Models" expanded="True">
+                  <Node name="Cart.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -29,6 +28,7 @@
   <MonoDevelop.Ide.ItemProperties.FrontEnd.Mango.Web PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.ShoppingCartAPI PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -37,6 +37,7 @@
       <Items>
         <StartupItem ItemId="{49836073-C426-44D6-902A-6D9385790E14}" ItemName="Mango.Services.Identity" ConfigurationId="Default" />
         <StartupItem ItemId="{BBE9ED68-ED6D-484D-9B03-F6C1921BDFA1}" ItemName="Mango.Services.ProductAPI" ConfigurationId="Default" />
+        <StartupItem ItemId="{229F8459-B923-41CD-A9D9-9852B948E4C7}" ItemName="Mango.Services.ShoppingCartAPI" ConfigurationId="Default" />
         <StartupItem ItemId="{9D8115D2-7C4F-4948-B9D7-EE0B5D161558}" ItemName="Mango.Web" ConfigurationId="Default" />
       </Items>
     </MultiItemSolutionRunConfiguration>
