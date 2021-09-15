@@ -1,24 +1,28 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
   <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.Identity PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Services.ShoppingCartAPI/Models/Cart.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.GatewaySolution/appsettings.json">
     <Files>
-      <File FileName="Mango.Services.ShoppingCartAPI/Models/Cart.cs" Line="7" Column="20" />
+      <File FileName="Mango.GatewaySolution/Properties/launchSettings.json" Line="27" Column="70" />
+      <File FileName="Mango.GatewaySolution/appsettings.json" Line="16" Column="1" />
+      <File FileName="Mango.GatewaySolution/Startup.cs" />
+      <File FileName="Mango.Web/appsettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MangoRestaurant" expanded="True">
+            <Node name="FrontEnd" expanded="True">
+              <Node name="Mango.Web" expanded="True">
+                <Node name="Properties" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Gateway" expanded="True">
+              <Node name="Mango.GatewaySolution" expanded="True">
+                <Node name="Properties" expanded="True" />
+              </Node>
+            </Node>
             <Node name="Services" expanded="True">
-              <Node name="Mango.Services.ProductAPI" expanded="True">
-                <Node name="DbContexts" expanded="True">
-                  <Node name="Models" expanded="True" />
-                </Node>
-              </Node>
-              <Node name="Mango.Services.ShoppingCartAPI" expanded="True">
-                <Node name="Models" expanded="True">
-                  <Node name="Cart.cs" selected="True" />
-                </Node>
-              </Node>
+              <Node name="Mango.Services.ShoppingCartAPI" selected="True" />
             </Node>
           </Node>
         </State>
@@ -35,6 +39,7 @@
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
+        <StartupItem ItemId="{75F2C936-40EF-4E51-9A3D-88723D686AFA}" ItemName="Mango.GatewaySolution" ConfigurationId="Default" />
         <StartupItem ItemId="{49836073-C426-44D6-902A-6D9385790E14}" ItemName="Mango.Services.Identity" ConfigurationId="Default" />
         <StartupItem ItemId="{BBE9ED68-ED6D-484D-9B03-F6C1921BDFA1}" ItemName="Mango.Services.ProductAPI" ConfigurationId="Default" />
         <StartupItem ItemId="{229F8459-B923-41CD-A9D9-9852B948E4C7}" ItemName="Mango.Services.ShoppingCartAPI" ConfigurationId="Default" />
@@ -42,5 +47,6 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.Gateway.Mango.GatewaySolution PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
   <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.ProductAPI PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
 </Properties>

@@ -411,4 +411,3 @@
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/ref/Mango.Web.dll
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.pdb
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.genruntimeconfig.cache
-/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/obj/Debug/net5.0/Mango.Web.csproj.AssemblyReference.cache

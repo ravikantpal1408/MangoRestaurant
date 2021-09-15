@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Yczm5RSjoAGMH1n6dmYcxaF3+AXgO15o/8WDhJYa5wZQSFs6C9CPf4ZnYMWdEUfrJONOAYREnYqXXjUvW0PTSQ==",
+  "dgSpecHash": "jUeta350/ifCwWWRccwerjk/iM8RQg/GApg2hRolgEiAMp47ySZm8QF8L7amGVOfBpaRkAAHArYTxq16VR21uQ==",
   "success": true,
   "projectFilePath": "/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Web/Mango.Web.csproj",
   "expectedPackageFiles": [
@@ -151,7 +151,8 @@
     "/Users/ravi/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/Users/ravi/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/Users/ravi/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "/Users/ravi/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512"
+    "/Users/ravi/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.8/microsoft.netcore.app.host.osx-x64.5.0.8.nupkg.sha512"
   ],
   "logs": []
 }

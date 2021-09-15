@@ -45,6 +45,7 @@
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/Mango.Services.ShoppingCartAPI.csproj.AssemblyReference.cache
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/Mango.Services.ShoppingCartAPI.GeneratedMSBuildEditorConfig.editorconfig
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/Mango.Services.ShoppingCartAPI.AssemblyInfoInputs.cache
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/Mango.Services.ShoppingCartAPI.AssemblyInfo.cs
@@ -52,7 +53,6 @@
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/Mango.Services.ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cs
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/Mango.Services.ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cache
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/staticwebassets/Mango.Services.ShoppingCartAPI.StaticWebAssets.Manifest.cache
-/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/staticwebassets/Mango.Services.ShoppingCartAPI.StaticWebAssets.xml
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/scopedcss/bundle/Mango.Services.ShoppingCartAPI.styles.css
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/Mango.Services.ShoppingCartAPI.RazorTargetAssemblyInfo.cache
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/Mango.Services.ShoppingCartAPI.csproj.CopyComplete
@@ -60,3 +60,4 @@
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/ref/Mango.Services.ShoppingCartAPI.dll
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/Mango.Services.ShoppingCartAPI.pdb
 /Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/obj/Debug/net5.0/Mango.Services.ShoppingCartAPI.genruntimeconfig.cache
+/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/bin/Debug/net5.0/Mango.Services.ShoppingCartAPI.StaticWebAssets.xml

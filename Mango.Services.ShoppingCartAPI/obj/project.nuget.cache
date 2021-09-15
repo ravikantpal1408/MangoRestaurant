@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rrJGC0VHsvufzrl05+67UyRAMFs6sOU4zCW2/RTvcMQf+CeaRLE4I/WGDlsLSoCYiMJramjnZqWCfRH/UOZzcg==",
+  "dgSpecHash": "rrPUyjfjzhgQIvkH2f8GKPCFGylQZTr8KXs/1dWLNbMcF+2NYGqnfnl+2e7K/kj0jpgfzwo2+3GdUDL3ac1kUQ==",
   "success": true,
   "projectFilePath": "/Volumes/MyDrive/WORK/MangoRestaurant/Mango.Services.ShoppingCartAPI/Mango.Services.ShoppingCartAPI.csproj",
   "expectedPackageFiles": [
@@ -105,7 +105,8 @@
     "/Users/ravi/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/Users/ravi/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/ravi/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "/Users/ravi/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "/Users/ravi/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.8/microsoft.netcore.app.host.osx-x64.5.0.8.nupkg.sha512"
   ],
   "logs": []
 }
